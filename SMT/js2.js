@@ -33,7 +33,8 @@ const data = [
 [i++, "Naveen Kumar", "14799535", "./SMT/NaveenKumar_14799535/1.bmp", "./SMT/NaveenKumar_14799535/2.bmp", "./SMT/NaveenKumar_14799535/3.bmp", "./SMT/NaveenKumar_14799535/4.bmp", "./SMT/NaveenKumar_14799535/5.bmp"],
 [i++, "Nihal", "15470361", "./SMT/Nihal_15470361/1.bmp", "./SMT/Nihal_15470361/2.bmp", "./SMT/Nihal_15470361/3.bmp", "./SMT/Nihal_15470361/4.bmp", "./SMT/Nihal_15470361/5.bmp"],
 [i++, "Nikhil Singh", "92355715", "./SMT/NikhilSingh_92355715/1.bmp", "./SMT/NikhilSingh_92355715/2.bmp", "./SMT/NikhilSingh_92355715/3.bmp", "./SMT/NikhilSingh_92355715/4.bmp", "./SMT/NikhilSingh_92355715/5.bmp"],
-
+[i++, "ArvindTiwari", "40055422", "./SMT/ArvindTiwari_40055422/1.bmp", "./SMT/ArvindTiwari_40055422/2.bmp", "./SMT/ArvindTiwari_40055422/3.bmp", "./SMT/ArvindTiwari_40055422/4.bmp", "./SMT/ArvindTiwari_40055422/5.bmp"],
+[i++, "BrijendraSingh", "60620260", "./SMT/BrijendraSingh_60620260/1.bmp", "./SMT/BrijendraSingh_60620260/2.bmp", "./SMT/BrijendraSingh_60620260/3.bmp", "./SMT/BrijendraSingh_60620260/4.bmp", "./SMT/BrijendraSingh_60620260/5.bmp"],
 
 ];
 

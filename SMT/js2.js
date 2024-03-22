@@ -17,7 +17,6 @@ const data = [
 [i++, "Arvind Tiwari", "40055422", "./SMT/ArvindTiwari_40055422/1.bmp", "./SMT/ArvindTiwari_40055422/2.bmp", "./SMT/ArvindTiwari_40055422/3.bmp", "./SMT/ArvindTiwari_40055422/4.bmp", "./SMT/ArvindTiwari_40055422/5.bmp"],
 [i++, "Asheesh Gupta", "13668417", "./SMT/AsheeshGupta_13668417/1.bmp", "./SMT/AsheeshGupta_13668417/2.bmp", "./SMT/AsheeshGupta_13668417/3.bmp", "./SMT/AsheeshGupta_13668417/4.bmp", "./SMT/AsheeshGupta_13668417/5.bmp"],
 [i++, "Ashutosh Shukla", "3048896", "./SMT/AshutoshShukla_3048896/1.bmp", "./SMT/AshutoshShukla_3048896/2.bmp", "./SMT/AshutoshShukla_3048896/3.bmp", "./SMT/AshutoshShukla_3048896/4.bmp", "./SMT/AshutoshShukla_3048896/5.bmp"],
-[i++, "Atul Pathak", "62183035", "./SMT/AtulPathak_62183035/1.bmp", "./SMT/AtulPathak_62183035/2.bmp", "./SMT/AtulPathak_62183035/3.bmp", "./SMT/AtulPathak_62183035/4.bmp", "./SMT/AtulPathak_62183035/5.bmp"],
 [i++, "Brijendra Singh", "60620260", "./SMT/BrijendraSingh_60620260/1.bmp", "./SMT/BrijendraSingh_60620260/2.bmp", "./SMT/BrijendraSingh_60620260/3.bmp", "./SMT/BrijendraSingh_60620260/4.bmp", "./SMT/BrijendraSingh_60620260/5.bmp"],
 [i++, "Deepa Yadav", "87848311", "./SMT/DeepaYadav_87848311/1.bmp", "./SMT/DeepaYadav_87848311/2.bmp", "./SMT/DeepaYadav_87848311/3.bmp", "./SMT/DeepaYadav_87848311/4.bmp", "./SMT/DeepaYadav_87848311/5.bmp"],
 [i++, "Dipanshu Yadav", "66665644", "./SMT/DipanshuYadav_66665644/1.bmp", "./SMT/DipanshuYadav_66665644/2.bmp", "./SMT/DipanshuYadav_66665644/3.bmp", "./SMT/DipanshuYadav_66665644/4.bmp", "./SMT/DipanshuYadav_66665644/5.bmp"],
@@ -34,8 +33,6 @@ const data = [
 [i++, "Nihal", "15470361", "./SMT/Nihal_15470361/1.bmp", "./SMT/Nihal_15470361/2.bmp", "./SMT/Nihal_15470361/3.bmp", "./SMT/Nihal_15470361/4.bmp", "./SMT/Nihal_15470361/5.bmp"],
 [i++, "Nikhil Singh", "92355715", "./SMT/NikhilSingh_92355715/1.bmp", "./SMT/NikhilSingh_92355715/2.bmp", "./SMT/NikhilSingh_92355715/3.bmp", "./SMT/NikhilSingh_92355715/4.bmp", "./SMT/NikhilSingh_92355715/5.bmp"],
 [i++, "ArvindTiwari", "40055422", "./SMT/ArvindTiwari_40055422/1.bmp", "./SMT/ArvindTiwari_40055422/2.bmp", "./SMT/ArvindTiwari_40055422/3.bmp", "./SMT/ArvindTiwari_40055422/4.bmp", "./SMT/ArvindTiwari_40055422/5.bmp"],
-[i++, "BrijendraSingh", "60620260", "./SMT/BrijendraSingh_60620260/1.bmp", "./SMT/BrijendraSingh_60620260/2.bmp", "./SMT/BrijendraSingh_60620260/3.bmp", "./SMT/BrijendraSingh_60620260/4.bmp", "./SMT/BrijendraSingh_60620260/5.bmp"],
-
 ];
 
 

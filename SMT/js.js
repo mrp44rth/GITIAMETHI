@@ -34,7 +34,6 @@ const data = [
 [i++,"ArtiRaniPal","46611773","./SMT/ArtiRaniPal_46611773/1.bmp","./SMT/ArtiRaniPal_46611773/2.bmp","./SMT/ArtiRaniPal_46611773/3.bmp","./SMT/ArtiRaniPal_46611773/4.bmp","./SMT/ArtiRaniPal_46611773/5.bmp"],
 [i++,"JyotiYadav","06199794","./SMT/JyotiYadav_06199794/1.bmp","./SMT/JyotiYadav_06199794/2.bmp","./SMT/JyotiYadav_06199794/3.bmp","./SMT/JyotiYadav_06199794/4.bmp","./SMT/JyotiYadav_06199794/5.bmp"],
 [i++,"ManishKumar","66720771","./SMT/ManishKumar_66720771/1.bmp","./SMT/ManishKumar_66720771/2.bmp","./SMT/ManishKumar_66720771/3.bmp","./SMT/ManishKumar_66720771/4.bmp","./SMT/ManishKumar_66720771/5.bmp"],
-[i++,"ManjuPal","48322256","./SMT/ManjuPal_48322256/1.bmp","./SMT/ManjuPal_48322256/2.bmp","./SMT/ManjuPal_48322256/3.bmp","./SMT/ManjuPal_48322256/4.bmp","./SMT/ManjuPal_48322256/5.bmp"],
 [i++,"MurliDharGupta","69125086","./SMT/MurliDharGupta_69125086/1.bmp","./SMT/MurliDharGupta_69125086/2.bmp","./SMT/MurliDharGupta_69125086/3.bmp","./SMT/MurliDharGupta_69125086/4.bmp","./SMT/MurliDharGupta_69125086/5.bmp"],
 [i++,"VishalMaurya","01769924","./SMT/VishalMaurya_01769924/1.bmp","./SMT/VishalMaurya_01769924/2.bmp","./SMT/VishalMaurya_01769924/3.bmp","./SMT/VishalMaurya_01769924/4.bmp","./SMT/VishalMaurya_01769924/5.bmp"]
 

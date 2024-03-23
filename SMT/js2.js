@@ -13,7 +13,6 @@ const data = [
 [i++, "Ankit Yadav", "62193197", "./SMT/AnkitYadav_62193197/1.bmp", "./SMT/AnkitYadav_62193197/2.bmp", "./SMT/AnkitYadav_62193197/3.bmp", "./SMT/AnkitYadav_62193197/4.bmp", "./SMT/AnkitYadav_62193197/5.bmp"],
 [i++, "Anmol Baranwal", "81628980", "./SMT/AnmolBaranwal_81628980/1.bmp", "./SMT/AnmolBaranwal_81628980/2.bmp", "./SMT/AnmolBaranwal_81628980/3.bmp", "./SMT/AnmolBaranwal_81628980/4.bmp", "./SMT/AnmolBaranwal_81628980/5.bmp"],
 [i++, "Arjun Baghel", "76686443", "./SMT/ArjunBaghel_76686443/1.bmp", "./SMT/ArjunBaghel_76686443/2.bmp", "./SMT/ArjunBaghel_76686443/3.bmp", "./SMT/ArjunBaghel_76686443/4.bmp", "./SMT/ArjunBaghel_76686443/5.bmp"],
-[i++, "Arti Rani Pal", "46611773", "./SMT/ArtiRaniPal_46611773/1.bmp", "./SMT/ArtiRaniPal_46611773/2.bmp", "./SMT/ArtiRaniPal_46611773/3.bmp", "./SMT/ArtiRaniPal_46611773/4.bmp", "./SMT/ArtiRaniPal_46611773/5.bmp"],
 [i++, "Arvind Tiwari", "40055422", "./SMT/ArvindTiwari_40055422/1.bmp", "./SMT/ArvindTiwari_40055422/2.bmp", "./SMT/ArvindTiwari_40055422/3.bmp", "./SMT/ArvindTiwari_40055422/4.bmp", "./SMT/ArvindTiwari_40055422/5.bmp"],
 [i++, "Asheesh Gupta", "13668417", "./SMT/AsheeshGupta_13668417/1.bmp", "./SMT/AsheeshGupta_13668417/2.bmp", "./SMT/AsheeshGupta_13668417/3.bmp", "./SMT/AsheeshGupta_13668417/4.bmp", "./SMT/AsheeshGupta_13668417/5.bmp"],
 [i++, "Ashutosh Shukla", "3048896", "./SMT/AshutoshShukla_3048896/1.bmp", "./SMT/AshutoshShukla_3048896/2.bmp", "./SMT/AshutoshShukla_3048896/3.bmp", "./SMT/AshutoshShukla_3048896/4.bmp", "./SMT/AshutoshShukla_3048896/5.bmp"],

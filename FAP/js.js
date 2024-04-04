@@ -32,6 +32,23 @@ const data = [
   [i++, "Priti", "66741716", "./FAP/Priti_66741716/1.bmp", "./FAP/Priti_66741716/2.bmp", "./FAP/Priti_66741716/3.bmp", "./FAP/Priti_66741716/4.bmp", "./FAP/Priti_66741716/5.bmp"],
   [i++, "SanjuKumari", "36421124", "./FAP/SanjuKumari_36421124/1.bmp", "./FAP/SanjuKumari_36421124/2.bmp", "./FAP/SanjuKumari_36421124/3.bmp", "./FAP/SanjuKumari_36421124/4.bmp", "./FAP/SanjuKumari_36421124/5.bmp"],
   [i++, "SeemaKori", "68880221", "./FAP/SeemaKori_68880221/1.bmp", "./FAP/SeemaKori_68880221/2.bmp", "./FAP/SeemaKori_68880221/3.bmp", "./FAP/SeemaKori_68880221/4.bmp", "./FAP/SeemaKori_68880221/5.bmp"],
+[i++, "Anjali saroj", "44082382", "./FAP/Anjali saroj_44082382/1.bmp", "./FAP/Anjali saroj_44082382/2.bmp", "./FAP/Anjali saroj_44082382/3.bmp", "./FAP/Anjali saroj_44082382/4.bmp", "./FAP/Anjali saroj_44082382/5.bmp"],
+  [i++, "Archana", "28708090", "./FAP/Archana_28708090/1.bmp", "./FAP/Archana_28708090/2.bmp", "./FAP/Archana_28708090/3.bmp", "./FAP/Archana_28708090/4.bmp", "./FAP/Archana_28708090/5.bmp"],
+  [i++, "FAP chandra wati", "", "./FAP/FAP chandra wati/1.bmp", "./FAP/FAP chandra wati/2.bmp", "./FAP/FAP chandra wati/3.bmp", "./FAP/FAP chandra wati/4.bmp", "./FAP/FAP chandra wati/5.bmp"],
+  [i++, "FAP-01-kirti-4239", "", "./FAP/FAP-01-kirti-4239/1.bmp", "./FAP/FAP-01-kirti-4239/2.bmp", "./FAP/FAP-01-kirti-4239/3.bmp", "./FAP/FAP-01-kirti-4239/4.bmp", "./FAP/FAP-01-kirti-4239/5.bmp"],
+  [i++, "FAP-13-Sarita-5375", "", "./FAP/FAP-13-Sarita-5375/1.bmp", "./FAP/FAP-13-Sarita-5375/2.bmp", "./FAP/FAP-13-Sarita-5375/3.bmp", "./FAP/FAP-13-Sarita-5375/4.bmp", "./FAP/FAP-13-Sarita-5375/5.bmp"],
+  [i++, "FAP-archana prajapati-1354mushafirkhana", "", "./FAP/FAP-archana prajapati-1354mushafirkhana/1.bmp", "./FAP/FAP-archana prajapati-1354mushafirkhana/2.bmp", "./FAP/FAP-archana prajapati-1354mushafirkhana/3.bmp", "./FAP/FAP-archana prajapati-1354mushafirkhana/4.bmp", "./FAP/FAP-archana prajapati-1354mushafirkhana/5.bmp"],
+  [i++, "Gunja Singh", "41858765", "./FAP/Gunja Singh_41858765/1.bmp", "./FAP/Gunja Singh_41858765/2.bmp", "./FAP/Gunja Singh_41858765/3.bmp", "./FAP/Gunja Singh_41858765/4.bmp", "./FAP/Gunja Singh_41858765/5.bmp"],
+  [i++, "Khushboo Gautam", "12710495", "./FAP/Khushboo Gautam_12710495/1.bmp", "./FAP/Khushboo Gautam_12710495/2.bmp", "./FAP/Khushboo Gautam_12710495/3.bmp", "./FAP/Khushboo Gautam_12710495/4.bmp", "./FAP/Khushboo Gautam_12710495/5.bmp"],
+  [i++, "Khushi Sharma", "74659948", "./FAP/Khushi Sharma_74659948/1.bmp", "./FAP/Khushi Sharma_74659948/2.bmp", "./FAP/Khushi Sharma_74659948/3.bmp", "./FAP/Khushi Sharma_74659948/4.bmp", "./FAP/Khushi Sharma_74659948/5.bmp"],
+  [i++, "Komal", "76326029", "./FAP/Komal_76326029/1.bmp", "./FAP/Komal_76326029/2.bmp", "./FAP/Komal_76326029/3.bmp", "./FAP/Komal_76326029/4.bmp", "./FAP/Komal_76326029/5.bmp"],
+  [i++, "Kranti Kumari", "63945977", "./FAP/Kranti Kumari_63945977/1.bmp", "./FAP/Kranti Kumari_63945977/2.bmp", "./FAP/Kranti Kumari_63945977/3.bmp", "./FAP/Kranti Kumari_63945977/4.bmp", "./FAP/Kranti Kumari_63945977/5.bmp"],
+  [i++, "Saloni saroj", "56343068", "./FAP/Saloni saroj_56343068/1.bmp", "./FAP/Saloni saroj_56343068/2.bmp", "./FAP/Saloni saroj_56343068/3.bmp", "./FAP/Saloni saroj_56343068/4.bmp", "./FAP/Saloni saroj_56343068/5.bmp"],
+  [i++, "Sanjana Kumari", "92813019", "./FAP/Sanjana Kumari_92813019/1.bmp", "./FAP/Sanjana Kumari_92813019/2.bmp", "./FAP/Sanjana Kumari_92813019/3.bmp", "./FAP/Sanjana Kumari_92813019/4.bmp", "./FAP/Sanjana Kumari_92813019/5.bmp"],
+  [i++, "Sanjana verma", "2658190", "./FAP/Sanjana verma_2658190/1.bmp", "./FAP/Sanjana verma_2658190/2.bmp", "./FAP/Sanjana verma_2658190/3.bmp", "./FAP/Sanjana verma_2658190/4.bmp", "./FAP/Sanjana verma_2658190/5.bmp"],
+  [i++, "Shivani Pandey-28", "54852317", "./FAP/Shivani Pandey-28_54852317/1.bmp", "./FAP/Shivani Pandey-28_54852317/2.bmp", "./FAP/Shivani Pandey-28_54852317/3.bmp", "./FAP/Shivani Pandey-28_54852317/4.bmp", "./FAP/Shivani Pandey-28_54852317/5.bmp"],
+  [i++, "SUDHA", "53748249", "./FAP/SUDHA_53748249/1.bmp", "./FAP/SUDHA_53748249/2.bmp", "./FAP/SUDHA_53748249/3.bmp", "./FAP/SUDHA_53748249/4.bmp", "./FAP/SUDHA_53748249/5.bmp"],
+  [i++, "Vandana", "44622843", "./FAP/Vandana_44622843/1.bmp", "./FAP/Vandana_44622843/2.bmp", "./FAP/Vandana_44622843/3.bmp", "./FAP/Vandana_44622843/4.bmp", "./FAP/Vandana_44622843/5.bmp"]
 
 ];
 

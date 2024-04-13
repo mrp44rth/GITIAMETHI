@@ -3,7 +3,9 @@ let i = 1;
 const data = [
  // add data here
 [i++, "Atul Pathak", "62183035", "./trainer/AtulPathak_62183035/1.bmp", "./trainer/AtulPathak_62183035/2.bmp", "./trainer/AtulPathak_62183035/3.bmp", "./trainer/AtulPathak_62183035/4.bmp", "./trainer/AtulPathak_62183035/5.bmp"],
-
+[i++, "Ankita Mishra", "98023891", "./trainer/AnkitaMishra_98023891/1.bmp", "./trainer/AnkitaMishra_98023891/2.bmp", "./trainer/AnkitaMishra_98023891/3.bmp", "./trainer/AnkitaMishra_98023891/4.bmp", "./trainer/AnkitaMishra_98023891/5.bmp"],
+  [i++, "Deepanjali Pathak", "33531333", "./trainer/DeepanjaliPathak_33531333/1.bmp", "./trainer/DeepanjaliPathak_33531333/2.bmp", "./trainer/DeepanjaliPathak_33531333/3.bmp", "./trainer/DeepanjaliPathak_33531333/4.bmp", "./trainer/DeepanjaliPathak_33531333/5.bmp"],
+  [i++, "Priya Pathak", "88241499", "./trainer/Priyapathak_88241499/1.bmp", "./trainer/Priyapathak_88241499/2.bmp", "./trainer/Priyapathak_88241499/3.bmp", "./trainer/Priyapathak_88241499/4.bmp", "./trainer/Priyapathak_88241499/5.bmp"],
          // 1-30 are done....
 // adding more rows..
 
